@@ -1,0 +1,8 @@
+name: Man10ZukanPlugin
+version: @version@
+main: man10zukanplugin.man10zukanplugin.Man10ZukanPlugin
+api-version: 1.16
+authors: [tororo_1066]
+
+commands:
+  mz:
